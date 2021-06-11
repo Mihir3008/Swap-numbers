@@ -3,4 +3,6 @@ This example contains two different techniques to swap numbers in C programming.
 There are two common ways to swap two numbers without using third variable:
 
 By + and -
+
+
 By * and /
